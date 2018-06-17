@@ -26,8 +26,6 @@ define(vlabel, [[// ]Vertex $1 = VCOUNT define($1, VCOUNT)define([VCOUNT], incr(
   define(Sin, 0.9659258263) //sin(75)
   define(Cos, 0.2588190451) //cos(75) 
 
-  //Diagram on Lab Notebook wed aug 5th
-
   define(L, 0.032)	//CavityFloor Length
   define(D, 0.032)     //Cavity Depth
   define(W, 0.26)	//Cavity Width
