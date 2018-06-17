@@ -1,2 +1,16 @@
-# rectangular_yaw_cavity_mesh_m4
-m4 files for geometry and mesh created for 3D rectangular cavities at yaw angles of 0, 30, 45, 60, 75, &amp; 90. 
+# M4 file repo - Rectangular cavity at yaw
+Repo contains m4 files for: 
+ -  Yaw 0
+ -  Yaw 30
+ -  Yaw 45
+ -  Yaw 60
+ -  Yaw 75
+ -  Yaw 90
+ 
+Dynamic variables:
+ - Cavity dimensions (Lenght, Depth, & Width)
+ - Cavity mesh number of divisions
+ - Cavity mesh grading
+ 
+Changing goemtry in the m4 file:
+
